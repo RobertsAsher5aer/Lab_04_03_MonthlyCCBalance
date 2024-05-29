@@ -18,7 +18,7 @@ public class Main {
         double interest2 = updatedBalance * INTEREST_RATE;
         // Output to the console
         System.out.println(" ");
-        System.out.println("With an interest rate of 17%, the interest due after 1 month is: " + interest2);
+        System.out.println("With an interest rate of 17%, the interest due after 2 months is: " + interest2);
 
 
     }
